@@ -1,0 +1,5 @@
+map <c-f>     scrollDown
+map <c-b>    scrollUp
+map <Tab>   nextTab
+map d removeTab
+map s LinkHints.activateMode
